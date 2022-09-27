@@ -81,13 +81,13 @@ p {
 }
 
 .bottom-cloud {
-  position: absolute;
+  position: fixed;
   left: 250px;
   bottom: 300px;
 }
 
 .top-cloud {
-  position: absolute;
+  position: fixed;
   right: 300px;
   top: 40px;
 }
